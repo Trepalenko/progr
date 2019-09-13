@@ -1,2 +1,1 @@
-# progr
-in (2): print('hello')
+# Seminar 1
