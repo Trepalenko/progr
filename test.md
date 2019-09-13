@@ -11,3 +11,7 @@ hi
 2. Katya
 
 
+```python
+s = "Python syntax highlighting"
+print s
+```
