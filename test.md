@@ -5,7 +5,7 @@ hi
 ***hi***  
 ~~sasha~~
 
-1.Sasha
+1. Sasha
 
-2.Katya
+2. Katya
 
